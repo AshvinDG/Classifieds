@@ -1,0 +1,3 @@
+jdbc:mysql://localhost/classifieds_db
+root
+root1234
